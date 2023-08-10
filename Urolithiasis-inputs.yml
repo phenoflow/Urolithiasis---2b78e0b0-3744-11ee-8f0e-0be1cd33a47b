@@ -1,0 +1,111 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/urinary-urolithiasis---primary.py
+inputModule3:
+  class: File
+  path: python/colic-urolithiasis---primary.py
+inputModule4:
+  class: File
+  path: python/calculous-urolithiasis---primary.py
+inputModule5:
+  class: File
+  path: python/urolithiasis-kidney---primary.py
+inputModule6:
+  class: File
+  path: python/urolithiasis-phosphate---primary.py
+inputModule7:
+  class: File
+  path: python/urolithiasis-stone---primary.py
+inputModule8:
+  class: File
+  path: python/urolithiasis-oxalate---primary.py
+inputModule9:
+  class: File
+  path: python/urolithiasis-bladder---primary.py
+inputModule10:
+  class: File
+  path: python/urolithiasis-surgery---primary.py
+inputModule11:
+  class: File
+  path: python/urolithiasis-specified---primary.py
+inputModule12:
+  class: File
+  path: python/ureteroscopic-urolithiasis---primary.py
+inputModule13:
+  class: File
+  path: python/urolithiasis-shockwave---primary.py
+inputModule14:
+  class: File
+  path: python/lower-urolithiasis---primary.py
+inputModule15:
+  class: File
+  path: python/urolithiasis-nephrolithiasis---primary.py
+inputModule16:
+  class: File
+  path: python/urolithiasis-ureter---primary.py
+inputModule17:
+  class: File
+  path: python/urolithiasis-procedure---primary.py
+inputModule18:
+  class: File
+  path: python/urolithiasis---primary.py
+inputModule19:
+  class: File
+  path: python/urolithiasis-ureter---secondary.py
+inputModule20:
+  class: File
+  path: python/urolithiasis-kidney---secondary.py
+inputModule21:
+  class: File
+  path: python/urolithiasis-unspecified---secondary.py
+inputModule22:
+  class: File
+  path: python/urolithiasis-calculus---secondary.py
+inputModule23:
+  class: File
+  path: python/lower-urolithiasis---secondary.py
+inputModule24:
+  class: File
+  path: python/other-urolithiasis---secondary.py
+inputModule25:
+  class: File
+  path: python/renal-urolithiasis---secondary.py
+inputModule26:
+  class: File
+  path: python/urolithiasis-removal---secondary.py
+inputModule27:
+  class: File
+  path: python/urolithiasis-operation---secondary.py
+inputModule28:
+  class: File
+  path: python/urolithiasis-shockwave---secondary.py
+inputModule29:
+  class: File
+  path: python/urolithiasis-laser---secondary.py
+inputModule30:
+  class: File
+  path: python/urolithiasis-extraction---secondary.py
+inputModule31:
+  class: File
+  path: python/extracorporeal-urolithiasis---secondary.py
+inputModule32:
+  class: File
+  path: python/lithotripsy-urolithiasis---secondary.py
+inputModule33:
+  class: File
+  path: python/urolithiasis---secondary.py
+inputModule34:
+  class: File
+  path: python/ureteroscopic-urolithiasis---secondary.py
+inputModule35:
+  class: File
+  path: python/urolithiasis-drainage---secondary.py
+inputModule36:
+  class: File
+  path: python/urolithiasis-bladder---secondary.py
+inputModule37:
+  class: File
+  path: python/output-cases.py
